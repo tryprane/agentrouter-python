@@ -32,12 +32,6 @@ Use `deepseek-v4-pro` when you need deeper reasoning or complex outputs.
 
 ---
 
-## Installation
-
-```bash
-pip install agentrouter
-```
-
 Requires **Python 3.11** or newer.
 
 ### From source
